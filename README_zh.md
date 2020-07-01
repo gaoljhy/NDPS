@@ -10,17 +10,23 @@
   <p align="center">
     一个旨在规范互联网上争论的协议！
     <br />
-    <a href="https://github.com/gaoljhy/NDPS/LICENSE"><strong>View »</strong></a>
+    <a href="https://github.com/gaoljhy/NDPS/blob/master/LICENSE"><strong>View »</strong></a>
     <br />
     <br />
   </p>
 </p>
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![NDPS License][license-shield]][license-url]
+[![NDPS License][license-shield]][license-url] -->
+
+![](https://img.shields.io/github/stars/gaoljhy/NDPS.svg) 
+![](https://img.shields.io/github/forks/gaoljhy/NDPS.svg) 
+![](https://img.shields.io/github/issues/gaoljhy/NDPS.svg) 
+
+
 
 该协议吸取辩论规则，论文要素，并简化为互联网通用规范
 
@@ -40,7 +46,7 @@
 因为在我的认知范围内这个协议的作用几乎没有，相对于其他开源协议如<MIT>来讲又太缺乏严谨，所以我反对，但是我也认同互联网的争论太多没有意义，且毫无规范，所以我决定参与进来贡献自己的一份力量。
 
 MIT-<https://mit-license.org/>
-NDPS-<https://github.com/gaoljhy/NDPS/LICENSE>
+NDPS-<https://github.com/gaoljhy/NDPS/blob/master/LICENSE>
 
 #### Follow NDSP
 
